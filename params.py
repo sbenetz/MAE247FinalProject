@@ -1,7 +1,7 @@
 import numpy as np
 import networkx as nx
 
-SAVE = True # save the gifs
+SAVE = False # save the gifs
 
 # Parameters for experiment
 DIM = 2 # unused for now, assume 2D
